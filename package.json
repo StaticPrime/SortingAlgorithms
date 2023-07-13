@@ -1,0 +1,19 @@
+{
+  "name": "sortingalgorithms",
+  "description": "A basic authentication application written in NodeJS (Typescript) using Redis Cache",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint . --ext .ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaticPrime/SortingAlgorithms.git"
+  },
+  "author": "Jason Breault",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StaticPrime/SortingAlgorithms/issues"
+  },
+  "homepage": "https://github.com/StaticPrime/SortingAlgorithms#readme"
+}
